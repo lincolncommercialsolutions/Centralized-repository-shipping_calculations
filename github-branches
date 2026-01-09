@@ -1,0 +1,3 @@
+$ git branch -vv
+* main                      52d40a3 [origin/main] Revert "added a new line to Shipping_Cost_Calculator.py"
+  shipping_calculator_fixes 52d40a3 [origin/shipping_calculator_fixes: ahead 1] Revert "added a new line to Shipping_Cost_Calculator.py"

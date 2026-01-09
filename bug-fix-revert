@@ -1,0 +1,28 @@
+$ curl -s "https://api.github.com/repos/ibm-developer-skills-network/Centralized-repository-shipping_calculations/pulls?head=lincolncommercialsolutions:main"
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/Centralized-repository-shipping_calculations/pulls",
+    "id": "[PR_ID]",
+    "state": "open",
+    "title": "Shipping calculator update and revert practice",
+    "user": {
+      "login": "lincolncommercialsolutions"
+    },
+    "head": {
+      "label": "lincolncommercialsolutions:main",
+      "ref": "main",
+      "repo": {
+        "full_name": "lincolncommercialsolutions/Centralized-repository-shipping_calculations",
+        "fork": true
+      }
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main",
+      "ref": "main"
+    }
+  }
+]
+
+Note: This file verifies that a pull request exists from the forked repository 
+(lincolncommercialsolutions/Centralized-repository-shipping_calculations) 
+to the upstream repository (ibm-developer-skills-network/Centralized-repository-shipping_calculations).

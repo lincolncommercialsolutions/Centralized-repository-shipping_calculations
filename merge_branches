@@ -1,0 +1,9 @@
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+$ git merge shipping_calculator_fixes
+Updating 717eb6c..52d40a3
+Fast-forward
+ Shipping_Cost_Calculator.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
